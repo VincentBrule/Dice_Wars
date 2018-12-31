@@ -1,0 +1,8 @@
+*.cbp
+*.depend
+*.layout
+.gitconfig
+obj/
+.idea/
+cmake-build-debug/
+*.bat
